@@ -1,0 +1,12 @@
+ÁLBUM ONLINE — TAYLLA
+Tema: verde-esmeralda com detalhes dourados.
+ID do evento no Supabase: taylla
+
+A URL e a chave pública do Supabase foram preservadas do ZIP original.
+No Painel Administrativo, utilize o ID exato: taylla.
+
+ATENÇÃO: assets/moldura.png é totalmente transparente no arquivo recebido.
+Substitua pela moldura PNG personalizada da Taylla (1080 x 1920, com centro transparente) antes de publicar.
+
+Para publicar: envie os arquivos à raiz do repositório e ative GitHub Pages.
+Teste o envio e a exibição de fotos com as políticas de acesso configuradas no Supabase.
